@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: MLproject2
+Version: 0.0.1
+Author: Sujith
+Requires-Dist: python-dotenv
+Requires-Dist: numpy
+Requires-Dist: panda
+Dynamic: author
+Dynamic: requires-dist
